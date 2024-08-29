@@ -37,10 +37,10 @@ body {
 
 .profile_name {
   float: left;
-  padding-left: 1cm;
+  padding-left: 2cm;
   /* Add the styles here */
   background-color: rgb(3, 174, 210);
-  font-size: 30px;
+  font-size: 35px;
 }
 
 .profile_name .contact_info {
